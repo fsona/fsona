@@ -1,3 +1,5 @@
+# Profile 
+
 - 👋 Hi, I’m Fabio (@fsona), engineering background, Strategy and Operations consultant for 25+ years, currently in Financial Services
 - 👀 I’m interested in Machine Learning, Deep Learning and AI business application, as well as skiing, hamradio and riding my motorbike
 - 🌱 I’m currently learning fundamentals of Neural Networks, I attended Andrew NG's machine learning course on Coursera
